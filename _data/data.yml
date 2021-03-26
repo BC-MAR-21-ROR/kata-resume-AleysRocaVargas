@@ -44,21 +44,14 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
-      
+
     - item: Open-mindedness and adaptability
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
-  I am someone dynamic, collaborative, 
-  with a desire to improve and goals based on the achievement of clear objectives; 
-  Self-taught and I am always willing to learn new technologies, 
-  I learn quickly and I comply adequately, with punctuality, 
-  honesty and responsibility in the different activities I carry out. 
-  I am passionate about technologies focused on cloud development, micro-service development, 
-  FrontEnd and BackEnd oriented web development
+  summary: |I am someone dynamic, collaborative, with a desire to improve and goals based on the achievement of clear objectives; Self-taught and I am always willing to learn new technologies, I learn quickly and I comply adequately, with punctuality, honesty and responsibility in the different activities I carry out. I am passionate about technologies focused on cloud development, micro-service development, FrontEnd and BackEnd oriented web development
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Ingeniería de sistemas
